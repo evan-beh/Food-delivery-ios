@@ -1,0 +1,26 @@
+
+[
+ {"menuName" : "Quater Chicken",
+   "MenuDesc" : "1/4 of the chicken of your choice",
+   "menuContent" : "chicken with signature sauce",
+   "menuPrice" : "12.00",
+   "menuImageUrl" : "https://nandos.com.my/wp-content/uploads/2021/06/Menu-banner-Mobile.jpg",
+   "menuThumnailImageUrl" : "https://nandos.com.my/wp-content/uploads/2020/12/Quarter-Chicken-on-its-own.jpg"
+ },
+   {"menuName" : "Half Chicken",
+   "MenuDesc" : "1/2 of the chicken of your choice",
+   "menuContent" : "chicken with signature sauce",
+   "menuPrice" : "25.00",
+   "menuImageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcVicj1E3GiMpwDNMyiX-aNzrroU-Ex7TTA&usqp=CAU",
+   "menuThumnailImageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ56F7fa7-NvcSiL9JUm-MnvLKnAksTpfVQw&usqp=CAU"
+
+ },
+   {"menuName" : "Whole Chicken",
+   "MenuDesc" : "1 chicken of your choice",
+   "menuContent" : "chicken with signature sauce",
+   "menuPrice" : "35",
+   "menuImageUrl" : "https://olo-images-live.imgix.net/84/84f81d3ebd214e4c8e50b4f6de08df6a.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=528&h=352&fit=crop&fm=png32&s=46c91208a48fbd78164d49e00806b791",
+   "menuThumnailImageUrl" : "https://www.capitaland.com/content/dam/capitaland-sites/singapore/shop/malls/lot-one/tenants/CL_Nandos_Food.jpg.transform/cap-midres/image.jpg"
+
+ }
+]

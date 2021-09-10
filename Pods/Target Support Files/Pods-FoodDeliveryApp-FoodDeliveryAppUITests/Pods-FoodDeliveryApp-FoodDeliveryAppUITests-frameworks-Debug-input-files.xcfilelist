@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-FoodDeliveryApp-FoodDeliveryAppUITests/Pods-FoodDeliveryApp-FoodDeliveryAppUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework
+${BUILT_PRODUCTS_DIR}/AutoScrollCollectionView/AutoScrollCollectionView.framework
+${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework

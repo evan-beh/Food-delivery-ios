@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (5.4.3)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - AutoScrollCollectionView (1.0.1)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - ObjectMapper (4.2.0)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 4.1)
+  - AutoScrollCollectionView
+  - Moya/RxSwift
+  - ObjectMapper
+  - RxCocoa (= 6.2.0)
+  - RxSwift (= 6.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - AutoScrollCollectionView
+    - Moya
+    - ObjectMapper
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  AutoScrollCollectionView: 4de7cf300f6dda25d7614b701d4e707f7236f9e2
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+
+PODFILE CHECKSUM: e2f71a63150b3a53c605c045cd2d0033be2f8462
+
+COCOAPODS: 1.10.0
